@@ -1,4 +1,4 @@
-# [Név]
+# [Árpás Péter]
 
 ## Hogyan kezdj neki?
 
