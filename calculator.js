@@ -7,3 +7,5 @@ function szamol(){
     document.getElementById('eredmeny').value = eredmenyszam;
 
 }
+
+document.getElementById('szamit').addEventListener('click' , szamol);
