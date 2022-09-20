@@ -1,0 +1,22 @@
+#topside {
+    width:  700px;
+    margin: 0 auto;    
+}
+.eredmenyigazit{
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+    text-align: center;
+}
+.bgorange{
+    background-color: orange;
+    padding: 15px;
+    color:white;
+}
+.oline{
+
+    height: 40px;
+    padding-top: 15px;
+}
