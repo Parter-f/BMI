@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #topside {
     width:  700px;
     margin: 0 auto;    
@@ -19,4 +20,27 @@ h3 {
 
     height: 40px;
     padding-top: 15px;
+=======
+#topside {
+    width:  700px;
+    margin: 0 auto;    
+}
+.eredmenyigazit{
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+    text-align: center;
+}
+.bgorange{
+    background-color: orange;
+    padding: 15px;
+    color:white;
+}
+.oline{
+
+    height: 40px;
+    padding-top: 15px;
+>>>>>>> beaf6266e5a25b8c23edfb124d8196e41d74196a
 }
